@@ -3,7 +3,32 @@
 "CashFresh" is an open-source personal finance app for tracking expenses and income, creating savings plans and managing repayments.
 
 ## Table of Contents
-
+- [Overview](#overview)
+- [Features](#features)
+- [Main User Tasks](#main-user-tasks)
+  - [View Monthly Overview](#view-monthly-overview)
+  - [Transaction Management](#transaction-management)
+    - [Creating a Transaction Item](#creating-a-transaction-item)
+    - [Editing a Transaction Item](#editing-a-transaction-item)
+    - [Deleting a Transaction Item](#deleting-a-transaction-item)
+  - [Account Management](#account-management)
+    - [Creating an Account](#creating-an-account)
+    - [Editing an Account](#editing-an-account)
+    - [Deleting an Account](#deleting-an-account)
+  - [Savings Plan Management](#savings-plan-management)
+    - [Creating a Savings Plan](#creating-a-savings-plan)
+    - [Editing a Savings Plan](#editing-a-savings-plan)
+    - [Deleting a Savings Plan](#deleting-a-savings-plan)
+    - [Check Compliance with Savings Plan](#check-compliance-with-savings-plan)
+  - [Credit Repayment Plan Management](#credit-repayment-plan-management)
+    - [Creating a Credit Repayment Plan Management](#creating-a-credit-repayment-plan-management)
+    - [Editing a Credit Repayment Plan Management](#editing-a-credit-repayment-plan-management)
+    - [Deleting a Credit Repayment Plan Management](#deleting-a-credit-repayment-plan-management)
+  - [Payment Calendar](#payment-calendar)
+    - [Viewing the Payment Calendar](#viewing-the-payment-calendar)
+    - [Exporting the Payment Calendar](#exporting-the-payment-calendar)
+  - [Making a Back-Up to Google Drive](#making-a-back-up-to-google-drive)
+- [License](#license)
 
 ## Overview
 
